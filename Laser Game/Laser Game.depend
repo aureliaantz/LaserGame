@@ -1,0 +1,279 @@
+# depslib dependency file v1.0
+1641483814 source:d:\college things\l3 miage\lasergame\laser game\main.cpp
+	<iostream>
+	"terrain.h"
+	"partieDuJeu.h"
+
+1641483814 source:d:\college things\l3 miage\lasergame\laser game\src\mirroir.cpp
+	"mirroir.h"
+
+1641486137 d:\college things\l3 miage\lasergame\laser game\include\mirroir.h
+	"box.h"
+
+1639149227 source:d:\college things\l3 miage\lasergame\laser game\src\position.cpp
+	"position.h"
+
+1639149227 d:\college things\l3 miage\lasergame\laser game\include\position.h
+
+1641419679 source:c:\users\mao-m\documents\lasergame\laser game\src\partiedujeu.cpp
+	"partieDuJeu.h"
+
+1641358055 c:\users\mao-m\documents\lasergame\laser game\include\partiedujeu.h
+	<iostream>
+	"terrain.h"
+
+1641217175 source:c:\users\mao-m\documents\lasergame\laser game\src\laser.cpp
+	"laser.h"
+
+1641358055 c:\users\mao-m\documents\lasergame\laser game\include\laser.h
+	"box.h"
+	<vector>
+
+1641471861 c:\users\mao-m\documents\lasergame\laser game\include\box.h
+
+1641218615 source:c:\users\mao-m\documents\lasergame\laser game\src\box.cpp
+	"box.h"
+
+1641069195 source:c:\users\mao-m\documents\lasergame\laser game\src\cible.cpp
+	"cible.h"
+
+1641358055 c:\users\mao-m\documents\lasergame\laser game\include\cible.h
+	"box.h"
+
+1641069195 source:c:\users\mao-m\documents\lasergame\laser game\src\mirroir.cpp
+	"mirroir.h"
+
+1641358055 c:\users\mao-m\documents\lasergame\laser game\include\mirroir.h
+	"box.h"
+
+1641069195 source:c:\users\mao-m\documents\lasergame\laser game\main.cpp
+	<iostream>
+	"terrain.h"
+	"partieDuJeu.h"
+
+1641471547 c:\users\mao-m\documents\lasergame\laser game\include\terrain.h
+	"box.h"
+	"cible.h"
+	"laser.h"
+	"mur.h"
+	"mirroir.h"
+	<iostream>
+	<vector>
+
+1641466606 source:c:\users\mao-m\documents\lasergame\laser game\src\mur.cpp
+	"mur.h"
+
+1641466606 c:\users\mao-m\documents\lasergame\laser game\include\mur.h
+	"box.h"
+	<vector>
+
+1641469368 source:c:\users\mao-m\documents\lasergame\laser game\src\terrain.cpp
+	"terrain.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1639932993 source:c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\main.cpp
+	<iostream>
+	"terrain.h"
+	"partieDuJeu.h"
+
+1639932993 c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\include\terrain.h
+	"box.h"
+	"cible.h"
+	"laser.h"
+
+1639925074 c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\include\box.h
+
+1639925085 c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\include\cible.h
+	"box.h"
+
+1639921529 c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\include\laser.h
+	"box.h"
+
+1639932993 c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\include\partiedujeu.h
+	<iostream>
+	"terrain.h"
+
+1639925027 source:c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\src\box.cpp
+	"box.h"
+
+1639925103 source:c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\src\cible.cpp
+	"cible.h"
+
+1639921592 source:c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\src\laser.cpp
+	"laser.h"
+
+1639921820 source:c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\src\mirroir.cpp
+	"mirroir.h"
+
+1639925175 c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\include\mirroir.h
+	"box.h"
+
+1639925292 source:c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\src\mur.cpp
+	"mur.h"
+
+1639922343 c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\include\mur.h
+
+1639932993 source:c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\src\partiedujeu.cpp
+	"partieDuJeu.h"
+
+1639932993 source:c:\users\mao-m\onedrive\bureau\lasergameproject\lasergame\laser game\src\terrain.cpp
+	"terrain.h"
+	<iostream>
+
+1640720773 source:d:\college things\l3 miage\nouveau\lasergame\laser game\main.cpp
+	<iostream>
+	"terrain.h"
+	"partieDuJeu.h"
+
+1640722857 d:\college things\l3 miage\nouveau\lasergame\laser game\include\terrain.h
+	"box.h"
+	"cible.h"
+	"laser.h"
+	"mur.h"
+	"mirroir.h"
+	<vector>
+
+1640720773 d:\college things\l3 miage\nouveau\lasergame\laser game\include\box.h
+
+1640720773 d:\college things\l3 miage\nouveau\lasergame\laser game\include\cible.h
+	"box.h"
+
+1640720773 d:\college things\l3 miage\nouveau\lasergame\laser game\include\laser.h
+	"box.h"
+
+1640720773 d:\college things\l3 miage\nouveau\lasergame\laser game\include\mur.h
+
+1640720773 d:\college things\l3 miage\nouveau\lasergame\laser game\include\mirroir.h
+	"box.h"
+
+1640720773 d:\college things\l3 miage\nouveau\lasergame\laser game\include\partiedujeu.h
+	<iostream>
+	"terrain.h"
+
+1640720773 source:d:\college things\l3 miage\nouveau\lasergame\laser game\src\box.cpp
+	"box.h"
+
+1640720773 source:d:\college things\l3 miage\nouveau\lasergame\laser game\src\cible.cpp
+	"cible.h"
+
+1640720773 source:d:\college things\l3 miage\nouveau\lasergame\laser game\src\laser.cpp
+	"laser.h"
+
+1640720773 source:d:\college things\l3 miage\nouveau\lasergame\laser game\src\mirroir.cpp
+	"mirroir.h"
+
+1640720773 source:d:\college things\l3 miage\nouveau\lasergame\laser game\src\mur.cpp
+	"mur.h"
+
+1640723705 source:d:\college things\l3 miage\nouveau\lasergame\laser game\src\partiedujeu.cpp
+	"partieDuJeu.h"
+
+1640725880 source:d:\college things\l3 miage\nouveau\lasergame\laser game\src\terrain.cpp
+	"terrain.h"
+	<iostream>
+
+1640873023 source:d:\college things\l3 miage\lasergame\lasergame\laser game\main.cpp
+	<iostream>
+	"terrain.h"
+	"partieDuJeu.h"
+
+1640874564 d:\college things\l3 miage\lasergame\lasergame\laser game\include\terrain.h
+	"box.h"
+	"cible.h"
+	"Laser.h"
+	"mur.h"
+	"mirroir.h"
+	<vector>
+
+1640873023 d:\college things\l3 miage\lasergame\lasergame\laser game\include\box.h
+
+1640873244 d:\college things\l3 miage\lasergame\lasergame\laser game\include\cible.h
+	"box.h"
+
+1640873244 d:\college things\l3 miage\lasergame\lasergame\laser game\include\laser.h
+	"box.h"
+
+1640873244 d:\college things\l3 miage\lasergame\lasergame\laser game\include\mur.h
+	"box.h"
+
+1640873244 d:\college things\l3 miage\lasergame\lasergame\laser game\include\mirroir.h
+	"box.h"
+
+1640873023 d:\college things\l3 miage\lasergame\lasergame\laser game\include\partiedujeu.h
+	<iostream>
+	"terrain.h"
+
+1640873151 source:d:\college things\l3 miage\lasergame\lasergame\laser game\src\box.cpp
+	"box.h"
+
+1640875279 source:d:\college things\l3 miage\lasergame\lasergame\laser game\src\cible.cpp
+	"cible.h"
+
+1640873194 source:d:\college things\l3 miage\lasergame\lasergame\laser game\src\laser.cpp
+	"Laser.h"
+
+1640873194 source:d:\college things\l3 miage\lasergame\lasergame\laser game\src\mirroir.cpp
+	"mirroir.h"
+
+1640873194 source:d:\college things\l3 miage\lasergame\lasergame\laser game\src\mur.cpp
+	"mur.h"
+
+1640876126 source:d:\college things\l3 miage\lasergame\lasergame\laser game\src\partiedujeu.cpp
+	"partieDuJeu.h"
+
+1640876642 source:d:\college things\l3 miage\lasergame\lasergame\laser game\src\terrain.cpp
+	"terrain.h"
+	<iostream>
+
+1641483814 source:d:\college things\l3 miage\lasergame\laser game\src\box.cpp
+	"box.h"
+
+1641486136 d:\college things\l3 miage\lasergame\laser game\include\box.h
+
+1641484847 source:d:\college things\l3 miage\lasergame\laser game\src\cible.cpp
+	"cible.h"
+	<iostream>
+
+1641486137 d:\college things\l3 miage\lasergame\laser game\include\cible.h
+	"box.h"
+
+1641485844 source:d:\college things\l3 miage\lasergame\laser game\src\laser.cpp
+	"laser.h"
+
+1641486137 d:\college things\l3 miage\lasergame\laser game\include\laser.h
+	"box.h"
+	<vector>
+
+1641483814 source:d:\college things\l3 miage\lasergame\laser game\src\mur.cpp
+	"mur.h"
+
+1641483814 d:\college things\l3 miage\lasergame\laser game\include\mur.h
+	"box.h"
+	<vector>
+
+1641486878 d:\college things\l3 miage\lasergame\laser game\include\terrain.h
+	"box.h"
+	"cible.h"
+	"laser.h"
+	"mur.h"
+	"mirroir.h"
+	<iostream>
+	<vector>
+
+1641486137 d:\college things\l3 miage\lasergame\laser game\include\partiedujeu.h
+	<iostream>
+	"terrain.h"
+
+1641485104 source:d:\college things\l3 miage\lasergame\laser game\src\partiedujeu.cpp
+	"partieDuJeu.h"
+
+1641486403 source:d:\college things\l3 miage\lasergame\laser game\src\terrain.cpp
+	"terrain.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
